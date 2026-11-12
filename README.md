@@ -97,6 +97,6 @@ export COPERNICUS_PASSWORD=your_password
 
 ## Team and credits
 
-Group project with Ziyue Lu, S. K. Lai and other members of LSE ST498 Group 6, supervised by Marcos Barreto. Original team repository: [lse-st498/P6_WaterPollution_2022_23](https://github.com/lse-st498/P6_WaterPollution_2022_23).
+Group project with Ziyue Lu and S. K. Lai (LSE ST498 Group 6), supervised by Marcos Barreto. Original team repository: [lse-st498/P6_WaterPollution_2022_23](https://github.com/lse-st498/P6_WaterPollution_2022_23).
 
 Data: [Environment Agency bathing water quality](https://environment.data.gov.uk/bwq/profiles/) (Open Government Licence) and [Copernicus Marine Service](https://marine.copernicus.eu/).
