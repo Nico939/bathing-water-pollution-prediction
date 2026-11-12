@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+mlxtend
+tensorflow
+joblib
+xarray
+netCDF4
+calplot
+hyperopt
+pillow
+imageio
+jupyterlab
